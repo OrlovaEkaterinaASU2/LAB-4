@@ -1,4 +1,5 @@
 from pyDatalog import pyDatalog
+#сдано
 
 print('\n''------------START------------''\n')
 
